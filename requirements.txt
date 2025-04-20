@@ -1,4 +1,5 @@
 Flask
 transformers
+sentencepiece
 torch
 gunicorn
