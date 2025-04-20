@@ -1,4 +1,4 @@
-Flask==2.1.2
-transformers==4.27.4
-torch==1.12.1  # Keep only if you're using any PyTorch-based models
-gunicorn==20.1.0
+Flask
+transformers
+torch
+gunicorn
